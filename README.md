@@ -1,6 +1,15 @@
 google-slides
 ===============
 
+## About
+
 > ServiceWorker powered offline slides with Polymer
 
-See the [component page](http:/addyosmani.github.io/google-slides) for more information.
+## Install
+
+`npm install`
+`bower update`
+
+## Fork
+
+Forked from [addyosmani's github repository](http:/addyosmani.github.io/google-slides)
